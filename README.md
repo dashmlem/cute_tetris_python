@@ -4,4 +4,4 @@
 
 https://thepythoncode.com/code/create-a-tetris-game-with-pygame-in-python
 
-####I decided to make it prettier so I added pastel colors & some new options
+#### I decided to make it prettier so I added pastel colors & some new options
